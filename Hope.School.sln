@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34511.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hope.DomainEntites", "Hope.DomainEntites\Hope.DomainEntites.csproj", "{80DC488B-8A2C-4038-AF1A-3AA2B1F91595}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hope.Infrastructure", "Hope.Infrastructure\Hope.Infrastructure.csproj", "{32268E35-5B4C-4A56-B457-E100619ECA24}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hope.Common", "Hope.Common\Hope.Common.csproj", "{2AB6EF7A-55C2-4016-8E53-6FD69622D063}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hope.Repositories", "Hope.Repositories\Hope.Repositories.csproj", "{91AF346B-9E2E-4F83-967F-562664FB1BF8}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hope.API", "Hope.API\Hope.API.csproj", "{B5E1BD3D-10D8-44E8-B60E-43A60BC1E7B3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hope.UI", "Hope.UI\Hope.UI.csproj", "{0EC98C01-32E2-4956-9F18-04C7393E10F4}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{80DC488B-8A2C-4038-AF1A-3AA2B1F91595}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{80DC488B-8A2C-4038-AF1A-3AA2B1F91595}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{80DC488B-8A2C-4038-AF1A-3AA2B1F91595}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{80DC488B-8A2C-4038-AF1A-3AA2B1F91595}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32268E35-5B4C-4A56-B457-E100619ECA24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32268E35-5B4C-4A56-B457-E100619ECA24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32268E35-5B4C-4A56-B457-E100619ECA24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32268E35-5B4C-4A56-B457-E100619ECA24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AB6EF7A-55C2-4016-8E53-6FD69622D063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AB6EF7A-55C2-4016-8E53-6FD69622D063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AB6EF7A-55C2-4016-8E53-6FD69622D063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AB6EF7A-55C2-4016-8E53-6FD69622D063}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91AF346B-9E2E-4F83-967F-562664FB1BF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91AF346B-9E2E-4F83-967F-562664FB1BF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91AF346B-9E2E-4F83-967F-562664FB1BF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91AF346B-9E2E-4F83-967F-562664FB1BF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B5E1BD3D-10D8-44E8-B60E-43A60BC1E7B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B5E1BD3D-10D8-44E8-B60E-43A60BC1E7B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B5E1BD3D-10D8-44E8-B60E-43A60BC1E7B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B5E1BD3D-10D8-44E8-B60E-43A60BC1E7B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EC98C01-32E2-4956-9F18-04C7393E10F4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EC98C01-32E2-4956-9F18-04C7393E10F4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EC98C01-32E2-4956-9F18-04C7393E10F4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EC98C01-32E2-4956-9F18-04C7393E10F4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9C342AA1-9540-41BC-9FCC-77DD5881FF28}
+	EndGlobalSection
+EndGlobal
